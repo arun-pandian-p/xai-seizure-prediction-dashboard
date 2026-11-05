@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+*.edf
+*.seizures
+temp_uploaded_file.edf
+neuroguard.db-journal
+.DS_Store
+.idea/
+.vscode/
+
